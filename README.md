@@ -4,6 +4,7 @@
 
 
 <!--Typing SVG-->
+<!-- https://readme-typing-svg.demolab.com/demo/ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=25&duration=6000&pause=1000&color=EBC83D&center=true&width=700&height=100&lines=a+passionate+Webdesigner+and+a+MERN+stack+learner)](https://git.io/typing-svg)
 
 
