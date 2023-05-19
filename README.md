@@ -1,20 +1,82 @@
-![](assets/Bottom_up.svg)
+![](assets/images/header.svg)
 
 <h1 align="center">Hi 👋🏽, I'm Karibbean Creative</h1>
-<h3 align="center">A Webdesigner and MERN stack learner</h3>
 
 
-<!--
-**dopeKaribbean/dopeKaribbean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Typing SVG-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=25&duration=6000&pause=1000&color=EBC83D&center=true&width=700&height=100&lines=a+passionate+Webdesigner+and+a+MERN+stack+learner)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>I started my coding journey a few months ago and I really appreciate JavaScript.<br/>I also like :</p>
+<ul>
+    <li> Thai-boxing 🥊</li>
+    <li>my little friend Ares 🐕</li>
+    <li>beatmaking 🎹</li>
+    <li>and discover new culinary specialties 😋.</li>
+
+
+<div>
+  <img align="right" src="assets/images/creator.png" alt="illustration" width="50%" height="auto"/>
+  <br/><br/>
+  <p align="center" width="50%">
+    <ul>
+      <li>🎯 I’m focusing on <a href="https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648205?start=3#overview" target="_blank">my courses</a></li>
+      <li>🌱 I’m currently learning <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><b>JavaScript EcoSystème</b></a></li>
+      <li>👯 I’m looking for a company to <b>help me grow during an <a href="https://oclock.io/formations/alternance" target="_blank">apprenticeship as a Fullstack Javascript Developer</a></b></li> 
+      <li>🔭 I’m currently working on <a href="http://karibbeancreative.xyz" target="_blank">my portfolio</a></li>
+      <li>🎮 I play <a href="https://nba.2k.com/2k23/" target="_blank">video games</a> and go to the gym very often.</li>
+    </ul>
+  </p>
+</div>
+
+
+<!-- Grid-snake github -->
+<!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
+![](assets/images/github-user-contribution.svg)
+
+
+<!--   GitHub stats graph -->
+## 📈 GitHub Activity Graph :
+[![Karibbean Creative github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=karibbeanCreative&theme=github-compact)](https://github.com/karibbeanCreative/github-readme-activity-graph)
+
+
+## 🧰 Languages and Tools :
+
+### Design
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
+
+
+### Webdesign
+
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+
+## 💬 Connect with me :
+
+<!--LinkedIn icon-->
+   <a href="https://www.linkedin.com/in/oriana-karibbeancreative-webdesigner/">
+      <img src="assets/icons/icons8-linkedin-94.png" alt="logo LinkedIn" width="40">
+   </a>
+<!--Instagram icon-->
+   <a href="https://www.instagram.com/karibbean.creative/?hl=fr">
+      <img src="assets/icons/icons8-instagram-94.png" alt="logo Instagram" width="45">
+   </a>
+<!--Telegram icon-->
+   <a href="#">
+      <img src="assets/icons/icons8-telegram-94.png" alt="logo Telegram" width="45">
+   </a>
+<!--Spotify icon-->
+   <a href="https://open.spotify.com/user/darkness971?si=a5349d4cd2554bc1">
+      <img src="assets/icons/icons8-spotify-94.png" alt="logo Spotify" width="45">
+   </a>
+</p>
