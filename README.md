@@ -5,7 +5,8 @@
 
 <!--Typing SVG-->
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=25&duration=6000&pause=1000&color=9999FF&center=true&width=1280&height=100&lines=a+passionate+Webdesigner+%F0%9F%96%8C%EF%B8%8F+and+a+MERN+stack+learner+%F0%9F%93%92)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=30&duration=6000&pause=1000&color=9999FF&center=true&width=1000&height=200&lines=a+passionate+Webdesigner+%F0%9F%96%8D%EF%B8%8F+and+a+MERN+stack+learner+%F0%9F%93%92)](https://git.io/typing-svg)
+
 
 
 ### 😎 About
