@@ -7,14 +7,14 @@
 
 ## 😎 &bull; About</h3>
 
-<section>
-   <div style="font-size:18" align="left" width="50%">
+<section style="display:flex">
+   <div style="font-size:18" width="30%">
       <p>I started my journey with graphic design. Then I learned webdesign and the fundamentals of UI design. I am still perfecting my UX approach.</p>
       <p>I’m currently learning JavaScript. You can follow my progress right here on the Creative Journey repository.</p>
    </div>
 
-   <div align="right" width="50%">
-      <img src="assets/images/creator.png" alt="illustration"/>
+   <div width="70%">
+      <img src="assets/images/creator.png" alt="illustration" width="100%"/>
    </div>
 </section>
 
